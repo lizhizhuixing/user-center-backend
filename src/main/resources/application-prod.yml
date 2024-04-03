@@ -27,3 +27,4 @@ server:
   port: 8080
   servlet:
     context-path: /api
+  address: 0.0.0.0
